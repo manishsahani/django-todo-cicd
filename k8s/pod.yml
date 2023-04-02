@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: todo
+spec:
+  containers:
+  - name: todo
+    image: manishsahani/todo:latest
+    ports:
+    - containerPort: 8000
