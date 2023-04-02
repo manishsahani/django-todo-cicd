@@ -18,10 +18,10 @@ lazr.restfulclient==0.14.4
 lazr.uri==1.0.6
 more-itertools==8.10.0
 netifaces==0.11.0
-oauthlib==3.2.0
+oauthlib==3.2.2
 platformdirs==2.5.1
 PyGObject==3.42.1
-PyJWT==2.3.0
+PyJWT==2.4.0
 pyparsing==2.4.7
 python-apt==2.4.0
 PyYAML==5.4.1
